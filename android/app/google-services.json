@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862039045588",
+    "project_id": "analytics-5c184",
+    "storage_bucket": "analytics-5c184.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862039045588:android:a6bf82d9d66ab7bd079241",
+        "android_client_info": {
+          "package_name": "com.example.foxbith_work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWDAJjNRLU_R3fLdN7u-VyVCR7S9D_-3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
